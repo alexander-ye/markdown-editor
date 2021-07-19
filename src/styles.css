@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+html, body, #root {
+    width: 100%;
+    height: 100%;
+}
+
+.AppContainer {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}

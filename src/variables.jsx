@@ -1,0 +1,1 @@
+const pFontSize = '17px';
